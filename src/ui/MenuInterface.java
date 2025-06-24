@@ -79,7 +79,7 @@ public class MenuInterface {
     }
 
     public void aguardarEnter() {
-        System.out.println("\nPressione Enter para continuar...");
+        System.out.println("\nPressione enter para continuar...");
         scanner.nextLine();
     }
 
